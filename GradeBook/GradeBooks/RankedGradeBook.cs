@@ -1,7 +1,4 @@
-﻿using System.Enums;
-using System;
-
-namespace GradeBook.GradeBooks
+﻿namespace GradeBook.GradeBooks
 {
     public class RankedGradeBook : BaseGradeBook
     {
