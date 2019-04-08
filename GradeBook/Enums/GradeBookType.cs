@@ -2,10 +2,10 @@
 {
     public enum GradeBookType
     {
-        Standard,
-        Ranked,
-        ESNU,
-        OnetoFour,
-        SixPoint
+       Standard,
+       Ranked,
+       ESNU,
+       OneToFour,
+       SixPoint
     }
 }
